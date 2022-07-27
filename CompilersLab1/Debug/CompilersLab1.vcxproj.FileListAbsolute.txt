@@ -1,0 +1,2 @@
+C:\Users\jt\source\repos\CompilersLab1\Debug\CompilersLab1.exe
+C:\Users\jt\source\repos\CompilersLab1\Debug\CompilersLab1.pdb
