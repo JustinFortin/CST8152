@@ -1,0 +1,30 @@
+Reading file a3w3.pls ....Please wait
+
+Printing input buffer parameters:
+
+The capacity of the buffer is:  352
+The current size of the buffer is:  352
+
+Printing input buffer contents:
+
+%%This program contains a syntax error
+%%Forsyth's second corollary to Murphy's law:
+%%"Just when you see the light at the end of the tunnel, the roof caves."
+
+MAIN{
+ READ(IF);
+ $a$ = '';
+ INPUT(b,a,$b$);
+ IF TRUE(if == 'begin' .AND $a$ |= a)THEN {
+   $a$ = 'begin' ++ $a$ ++ $b$ ++ 'end';
+ 
+^@$#&} ELSE{DO};
+MAIN %%What is this creature doing here?
+}ÿ
+
+Parsing the source file...
+
+
+Syntax errors: 4
+
+Collecting garbage...

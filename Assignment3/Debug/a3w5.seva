@@ -1,0 +1,38 @@
+Reading file a3w5.pls ....Please wait
+
+Printing input buffer parameters:
+
+The capacity of the buffer is:  237
+The current size of the buffer is:  237
+
+Printing input buffer contents:
+
+MAIN{
+a = a .AND. a;
+b = b .OR. b;
+IF TRUE (a+a + b-b - c/c + d*d)
+THEN { a=b;} ELSE{};
+IF TRUE(c/c - d*d)
+THEN {a=b;} ELSE{};
+IF TRUE(a==a + b==b)
+THEN {a=b;} ELSE{};
+IF TRUE (c==c - d==d)
+THEN {a=b;} ELSE{};
+a = a == b;
+b = b != b; 
+}ÿ
+
+Parsing the source file...
+
+PLATY: Primary arithmetic expression parsed
+PLATY: Arithmatic Expression Parsed
+PLATY: Syntax error:  Line:  8
+*****  Token code:  9 Attribute: 0
+PLATY: Assignment Expression Parsed
+PLATY: Assignment Statement Parsed
+PLATY: Program parsed
+PLATY: Source file parsed
+
+Syntax errors: 8
+
+Collecting garbage...
